@@ -51,4 +51,4 @@ Given a dataset of the form **(t, y(t))**, the task was to analyze it using **no
 ---
 
 ## 📜 Acknowledgements
-This project was done as part of the **MTH686 (Non-Linear Regression Analysis)** course at **IIT Kanpur** under the guidance of **Debasis Kundu**.  
+This project was done as part of the **MTH686 (Non-Linear Regression Analysis)** course at **IIT Kanpur** under the guidance of **Prof. Debasis Kundu**.  
